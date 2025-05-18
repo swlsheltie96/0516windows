@@ -218,7 +218,7 @@
       on:click={cycleWindow}
       on:touchstart={cycleWindow}
     >
-      <img src="public/images/{windowStates[currentWindowIndex]}" alt="window" />
+      <img src="/images/{windowStates[currentWindowIndex]}" alt="window" />
     </div>
   </div>
 </main>
